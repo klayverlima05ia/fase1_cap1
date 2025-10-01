@@ -1,0 +1,5 @@
+cultura,base_m,altura_m,area_m2,produto,dose_kg_ha,kg_necessarios
+algodao,100.0,50.0,2500.0,Nitrogenio (N),100.0,25.0
+algodao,80.0,50.0,2000.0,Nitrogenio (N),100.0,20.0
+feijao,100.0,50.0,2500.0,Fosforo (P),50.0,12.5
+feijao,80.0,50.0,2000.0,Fosforo (P),50.0,10.0
